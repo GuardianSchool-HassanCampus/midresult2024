@@ -1,0 +1,532 @@
+﻿RollNumber,Name,Class,Subject,ObtainedMarks,TotalMarks
+1,Hassan Zohaib Abbasi,Play Group (PG) ,English-W,33,50
+1,Hassan Zohaib Abbasi,Play Group (PG) ,Urdu-R,30,50
+1,Hassan Zohaib Abbasi,Play Group (PG) ,Art & Craft,23,30
+1,Hassan Zohaib Abbasi,Play Group (PG) ,Maths,50,50
+1,Hassan Zohaib Abbasi,Play Group (PG) ,English-R,35,50
+1,Hassan Zohaib Abbasi,Play Group (PG) ,Urdu-W,41,50
+1,Hassan Zohaib Abbasi,Play Group (PG) ,Total,212,280
+2,Yahya Khawar Abbasi,Play Group (PG) ,English-W,47,50
+2,Yahya Khawar Abbasi,Play Group (PG) ,Urdu-R,40,50
+2,Yahya Khawar Abbasi,Play Group (PG) ,Art & Craft,26,30
+2,Yahya Khawar Abbasi,Play Group (PG) ,Maths,50,50
+2,Yahya Khawar Abbasi,Play Group (PG) ,English-R,46,50
+2,Yahya Khawar Abbasi,Play Group (PG) ,Urdu-W,45,50
+2,Yahya Khawar Abbasi,Play Group (PG) ,Total,254,280
+3,Anum Rehman Abbasi,Play Group (PG) ,English-W,44,50
+3,Anum Rehman Abbasi,Play Group (PG) ,Urdu-R,40,50
+3,Anum Rehman Abbasi,Play Group (PG) ,Art & Craft,23,30
+3,Anum Rehman Abbasi,Play Group (PG) ,Maths,50,50
+3,Anum Rehman Abbasi,Play Group (PG) ,English-R,44,50
+3,Anum Rehman Abbasi,Play Group (PG) ,Urdu-W,45,50
+3,Anum Rehman Abbasi,Play Group (PG) ,Total,246,280
+4,Arham Irfan,Play Group (PG) ,English-W,47,50
+4,Arham Irfan,Play Group (PG) ,Urdu-R,45,50
+4,Arham Irfan,Play Group (PG) ,Art & Craft,21,30
+4,Arham Irfan,Play Group (PG) ,Maths,50,50
+4,Arham Irfan,Play Group (PG) ,English-R,46,50
+4,Arham Irfan,Play Group (PG) ,Urdu-W,44,50
+4,Arham Irfan,Play Group (PG) ,Total,253,280
+5,Anmol Samsoon,Play Group (PG) ,English-W,43,50
+5,Anmol Samsoon,Play Group (PG) ,Urdu-R,40,50
+5,Anmol Samsoon,Play Group (PG) ,Art & Craft,28,30
+5,Anmol Samsoon,Play Group (PG) ,Maths,48,50
+5,Anmol Samsoon,Play Group (PG) ,English-R,47,50
+5,Anmol Samsoon,Play Group (PG) ,Urdu-W,48,50
+5,Anmol Samsoon,Play Group (PG) ,Total,254,280
+6,Arshiya Ahsan,Play Group (PG) ,English-W,43,50
+6,Arshiya Ahsan,Play Group (PG) ,Urdu-R,47,50
+6,Arshiya Ahsan,Play Group (PG) ,Art & Craft,21,30
+6,Arshiya Ahsan,Play Group (PG) ,Maths,41,50
+6,Arshiya Ahsan,Play Group (PG) ,English-R,44,50
+6,Arshiya Ahsan,Play Group (PG) ,Urdu-W,44,50
+6,Arshiya Ahsan,Play Group (PG) ,Total,240,280
+7,Hamza Naveed,Nursery (MS),English-W,40,50
+7,Hamza Naveed,Nursery (MS),Urdu-R,20,50
+7,Hamza Naveed,Nursery (MS),Art & Craft,26,30
+7,Hamza Naveed,Nursery (MS),Maths,47,50
+7,Hamza Naveed,Nursery (MS),English-R,20,50
+7,Hamza Naveed,Nursery (MS),Urdu-W,39,50
+7,Hamza Naveed,Nursery (MS),Total,192,280
+8,Muhammad Zain Ul Abideen,Nursery (MS),English-W,49,50
+8,Muhammad Zain Ul Abideen,Nursery (MS),Urdu-R,50,50
+8,Muhammad Zain Ul Abideen,Nursery (MS),Art & Craft,23,30
+8,Muhammad Zain Ul Abideen,Nursery (MS),Maths,48,50
+8,Muhammad Zain Ul Abideen,Nursery (MS),English-R,49,50
+8,Muhammad Zain Ul Abideen,Nursery (MS),Urdu-W,48,50
+8,Muhammad Zain Ul Abideen,Nursery (MS),Total,267,280
+9,Muhammad Hassan,Nursery (MS),English-W,50,50
+9,Muhammad Hassan,Nursery (MS),Urdu-R,47,50
+9,Muhammad Hassan,Nursery (MS),Art & Craft,30,30
+9,Muhammad Hassan,Nursery (MS),Maths,50,50
+9,Muhammad Hassan,Nursery (MS),English-R,45,50
+9,Muhammad Hassan,Nursery (MS),Urdu-W,49,50
+9,Muhammad Hassan,Nursery (MS),Total,271,280
+10,Rameez Faisal,Nursery (MS),English-W,49,50
+10,Rameez Faisal,Nursery (MS),Urdu-R,43,50
+10,Rameez Faisal,Nursery (MS),Art & Craft,28,30
+10,Rameez Faisal,Nursery (MS),Maths,50,50
+10,Rameez Faisal,Nursery (MS),English-R,42,50
+10,Rameez Faisal,Nursery (MS),Urdu-W,46,50
+10,Rameez Faisal,Nursery (MS),Total,258,280
+11,Ayyan Azhar,Nursery (MS),English-W,50,50
+11,Ayyan Azhar,Nursery (MS),Urdu-R,50,50
+11,Ayyan Azhar,Nursery (MS),Art & Craft,22,30
+11,Ayyan Azhar,Nursery (MS),Maths,49,50
+11,Ayyan Azhar,Nursery (MS),English-R,49,50
+11,Ayyan Azhar,Nursery (MS),Urdu-W,35,50
+11,Ayyan Azhar,Nursery (MS),Total,255,280
+12,Hareem Fatima ,Prep (KG),English-W,48,50
+12,Hareem Fatima ,Prep (KG),Urdu-R,49,50
+12,Hareem Fatima ,Prep (KG),Art & Craft,28,30
+12,Hareem Fatima ,Prep (KG),Maths,47,50
+12,Hareem Fatima ,Prep (KG),English-R,46,50
+12,Hareem Fatima ,Prep (KG),Urdu-W,45,50
+12,Hareem Fatima ,Prep (KG),Total,263,280
+13,Ali Haider,Prep (KG),English-W,47,50
+13,Ali Haider,Prep (KG),Urdu-R,48,50
+13,Ali Haider,Prep (KG),Art & Craft,29,30
+13,Ali Haider,Prep (KG),Maths,50,50
+13,Ali Haider,Prep (KG),English-R,46,50
+13,Ali Haider,Prep (KG),Urdu-W,43,50
+13,Ali Haider,Prep (KG),Total,263,280
+14,Jannat Eman,Prep (KG),English-W,49,50
+14,Jannat Eman,Prep (KG),Urdu-R,45,50
+14,Jannat Eman,Prep (KG),Art & Craft,30,30
+14,Jannat Eman,Prep (KG),Maths,47,50
+14,Jannat Eman,Prep (KG),English-R,45,50
+14,Jannat Eman,Prep (KG),Urdu-W,44,50
+14,Jannat Eman,Prep (KG),Total,260,280
+15,Anabia Fida Abbasi,Prep (KG),English-W,40,50
+15,Anabia Fida Abbasi,Prep (KG),Urdu-R,45,50
+15,Anabia Fida Abbasi,Prep (KG),Art & Craft,27,30
+15,Anabia Fida Abbasi,Prep (KG),Maths,46,50
+15,Anabia Fida Abbasi,Prep (KG),English-R,44,50
+15,Anabia Fida Abbasi,Prep (KG),Urdu-W,40,50
+15,Anabia Fida Abbasi,Prep (KG),Total,242,280
+16,Aliza Umer,Prep (KG),English-W,49,50
+16,Aliza Umer,Prep (KG),Urdu-R,47,50
+16,Aliza Umer,Prep (KG),Art & Craft,29,30
+16,Aliza Umer,Prep (KG),Maths,50,50
+16,Aliza Umer,Prep (KG),English-R,50,50
+16,Aliza Umer,Prep (KG),Urdu-W,48,50
+16,Aliza Umer,Prep (KG),Total,273,280
+17,Muhammad Rahim,Prep (KG),English-W,47,50
+17,Muhammad Rahim,Prep (KG),Urdu-R,44,50
+17,Muhammad Rahim,Prep (KG),Art & Craft,23,30
+17,Muhammad Rahim,Prep (KG),Maths,48,50
+17,Muhammad Rahim,Prep (KG),English-R,46,50
+17,Muhammad Rahim,Prep (KG),Urdu-W,42,50
+17,Muhammad Rahim,Prep (KG),Total,250,280
+18,Abeera Khawar Abbasi,Prep (KG),English-W,49,50
+18,Abeera Khawar Abbasi,Prep (KG),Urdu-R,40,50
+18,Abeera Khawar Abbasi,Prep (KG),Art & Craft,29,30
+18,Abeera Khawar Abbasi,Prep (KG),Maths,44,50
+18,Abeera Khawar Abbasi,Prep (KG),English-R,44,50
+18,Abeera Khawar Abbasi,Prep (KG),Urdu-W,45,50
+18,Abeera Khawar Abbasi,Prep (KG),Total,251,280
+19,Nad-e-ali,Prep (KG),English-W,48,50
+19,Nad-e-ali,Prep (KG),Urdu-R,45,50
+19,Nad-e-ali,Prep (KG),Art & Craft,23,30
+19,Nad-e-ali,Prep (KG),Maths,49,50
+19,Nad-e-ali,Prep (KG),English-R,43,50
+19,Nad-e-ali,Prep (KG),Urdu-W,43,50
+19,Nad-e-ali,Prep (KG),Total,251,280
+20,Ayesha Rafeeq,Prep (KG),English-W,50,50
+20,Ayesha Rafeeq,Prep (KG),Urdu-R,48,50
+20,Ayesha Rafeeq,Prep (KG),Art & Craft,30,30
+20,Ayesha Rafeeq,Prep (KG),Maths,50,50
+20,Ayesha Rafeeq,Prep (KG),English-R,45,50
+20,Ayesha Rafeeq,Prep (KG),Urdu-W,50,50
+20,Ayesha Rafeeq,Prep (KG),Total,273,280
+21,Staish,Prep (KG),English-W,50,50
+21,Staish,Prep (KG),Urdu-R,47,50
+21,Staish,Prep (KG),Art & Craft,28,30
+21,Staish,Prep (KG),Maths,50,50
+21,Staish,Prep (KG),English-R,49,50
+21,Staish,Prep (KG),Urdu-W,48,50
+21,Staish,Prep (KG),Total,272,280
+22,Anamata Imran,Grade-1,English,44,50
+22,Anamata Imran,Grade-1,Urdu,36,50
+22,Anamata Imran,Grade-1,SST/GK,43,50
+22,Anamata Imran,Grade-1,Maths,49,50
+22,Anamata Imran,Grade-1,Islamiyat,41,50
+22,Anamata Imran,Grade-1,Science,43,50
+22,Anamata Imran,Grade-1,Computer,26,50
+22,Anamata Imran,Grade-1,Total,282,350
+23,Urwa Qaiser,Grade-1,English,43,50
+23,Urwa Qaiser,Grade-1,Urdu,40,50
+23,Urwa Qaiser,Grade-1,SST/GK,49,50
+23,Urwa Qaiser,Grade-1,Maths,49,50
+23,Urwa Qaiser,Grade-1,Islamiyat,34,50
+23,Urwa Qaiser,Grade-1,Science,39,50
+23,Urwa Qaiser,Grade-1,Computer,23,50
+23,Urwa Qaiser,Grade-1,Total,277,350
+24,Muhammad Azan,Grade-1,English,44,50
+24,Muhammad Azan,Grade-1,Urdu,44,50
+24,Muhammad Azan,Grade-1,SST/GK,44,50
+24,Muhammad Azan,Grade-1,Maths,49,50
+24,Muhammad Azan,Grade-1,Islamiyat,39,50
+24,Muhammad Azan,Grade-1,Science,37,50
+24,Muhammad Azan,Grade-1,Computer,22,50
+24,Muhammad Azan,Grade-1,Total,279,350
+25,Maryam Umer,Grade-1,English,47,50
+25,Maryam Umer,Grade-1,Urdu,50,50
+25,Maryam Umer,Grade-1,SST/GK,47,50
+25,Maryam Umer,Grade-1,Maths,50,50
+25,Maryam Umer,Grade-1,Islamiyat,42,50
+25,Maryam Umer,Grade-1,Science,45,50
+25,Maryam Umer,Grade-1,Computer,31,50
+25,Maryam Umer,Grade-1,Total,312,350
+26,Adan,Grade-1,English,48,50
+26,Adan,Grade-1,Urdu,44,50
+26,Adan,Grade-1,SST/GK,45,50
+26,Adan,Grade-1,Maths,46,50
+26,Adan,Grade-1,Islamiyat,42,50
+26,Adan,Grade-1,Science,41,50
+26,Adan,Grade-1,Computer,28,50
+26,Adan,Grade-1,Total,294,350
+27,Muhammad Taha,Grade-1,English,35,50
+27,Muhammad Taha,Grade-1,Urdu,42,50
+27,Muhammad Taha,Grade-1,SST/GK,48,50
+27,Muhammad Taha,Grade-1,Maths,44,50
+27,Muhammad Taha,Grade-1,Islamiyat,27,50
+27,Muhammad Taha,Grade-1,Science,39,50
+27,Muhammad Taha,Grade-1,Computer,27,50
+27,Muhammad Taha,Grade-1,Total,262,350
+28,Muhammad Anas,Grade-1,English,35,50
+28,Muhammad Anas,Grade-1,Urdu,45,50
+28,Muhammad Anas,Grade-1,SST/GK,42,50
+28,Muhammad Anas,Grade-1,Maths,47,50
+28,Muhammad Anas,Grade-1,Islamiyat,27,50
+28,Muhammad Anas,Grade-1,Science,35,50
+28,Muhammad Anas,Grade-1,Computer,20,50
+28,Muhammad Anas,Grade-1,Total,251,350
+29,Mavia Faisal,Grade-1,English,34,50
+29,Mavia Faisal,Grade-1,Urdu,21,50
+29,Mavia Faisal,Grade-1,SST/GK,41,50
+29,Mavia Faisal,Grade-1,Maths,44,50
+29,Mavia Faisal,Grade-1,Islamiyat,31,50
+29,Mavia Faisal,Grade-1,Science,32,50
+29,Mavia Faisal,Grade-1,Computer,33,50
+29,Mavia Faisal,Grade-1,Total,236,350
+30,Yousaf Jhanzaib,Grade-1,English,38,50
+30,Yousaf Jhanzaib,Grade-1,Urdu,42,50
+30,Yousaf Jhanzaib,Grade-1,SST/GK,44,50
+30,Yousaf Jhanzaib,Grade-1,Maths,47,50
+30,Yousaf Jhanzaib,Grade-1,Islamiyat,34,50
+30,Yousaf Jhanzaib,Grade-1,Science,43,50
+30,Yousaf Jhanzaib,Grade-1,Computer,34,50
+30,Yousaf Jhanzaib,Grade-1,Total,282,350
+31,Arshiq,Grade-1,English,48,50
+31,Arshiq,Grade-1,Urdu,49,50
+31,Arshiq,Grade-1,SST/GK,50,50
+31,Arshiq,Grade-1,Maths,48,50
+31,Arshiq,Grade-1,Islamiyat,41,50
+31,Arshiq,Grade-1,Science,39,50
+31,Arshiq,Grade-1,Computer,33,50
+31,Arshiq,Grade-1,Total,308,350
+32,Arzoo,Grade-1,English,46,50
+32,Arzoo,Grade-1,Urdu,48,50
+32,Arzoo,Grade-1,SST/GK,47,50
+32,Arzoo,Grade-1,Maths,49,50
+32,Arzoo,Grade-1,Islamiyat,38,50
+32,Arzoo,Grade-1,Science,43,50
+32,Arzoo,Grade-1,Computer,26,50
+32,Arzoo,Grade-1,Total,297,350
+33,Ayyan Akbar,Grade-1,English,40,50
+33,Ayyan Akbar,Grade-1,Urdu,43,50
+33,Ayyan Akbar,Grade-1,SST/GK,47,50
+33,Ayyan Akbar,Grade-1,Maths,46,50
+33,Ayyan Akbar,Grade-1,Islamiyat,36,50
+33,Ayyan Akbar,Grade-1,Science,39,50
+33,Ayyan Akbar,Grade-1,Computer,20,50
+33,Ayyan Akbar,Grade-1,Total,271,350
+34,Sania,Grade-2,English,32,50
+34,Sania,Grade-2,Urdu,34,50
+34,Sania,Grade-2,SST/GK,34,50
+34,Sania,Grade-2,Maths,41,50
+34,Sania,Grade-2,Islamiyat,36,50
+34,Sania,Grade-2,Science,36,50
+34,Sania,Grade-2,Computer,32,50
+34,Sania,Grade-2,Total,245,350
+35,Eman Sajid,Grade-2,English,43,50
+35,Eman Sajid,Grade-2,Urdu,47,50
+35,Eman Sajid,Grade-2,SST/GK,48,50
+35,Eman Sajid,Grade-2,Maths,45,50
+35,Eman Sajid,Grade-2,Islamiyat,47,50
+35,Eman Sajid,Grade-2,Science,45,50
+35,Eman Sajid,Grade-2,Computer,44,50
+35,Eman Sajid,Grade-2,Total,319,350
+36,Areesha Faisal,Grade-2,English,32,50
+36,Areesha Faisal,Grade-2,Urdu,43,50
+36,Areesha Faisal,Grade-2,SST/GK,42,50
+36,Areesha Faisal,Grade-2,Maths,44,50
+36,Areesha Faisal,Grade-2,Islamiyat,43,50
+36,Areesha Faisal,Grade-2,Science,34,50
+36,Areesha Faisal,Grade-2,Computer,30,50
+36,Areesha Faisal,Grade-2,Total,268,350
+37,Nimra Naveed,Grade-2,English,38,50
+37,Nimra Naveed,Grade-2,Urdu,41,50
+37,Nimra Naveed,Grade-2,SST/GK,33,50
+37,Nimra Naveed,Grade-2,Maths,41,50
+37,Nimra Naveed,Grade-2,Islamiyat,31,50
+37,Nimra Naveed,Grade-2,Science,24,50
+37,Nimra Naveed,Grade-2,Computer,39,50
+37,Nimra Naveed,Grade-2,Total,247,350
+38,Rida Eman,Grade-2,English,44,50
+38,Rida Eman,Grade-2,Urdu,48,50
+38,Rida Eman,Grade-2,SST/GK,43,50
+38,Rida Eman,Grade-2,Maths,45,50
+38,Rida Eman,Grade-2,Islamiyat,49,50
+38,Rida Eman,Grade-2,Science,40,50
+38,Rida Eman,Grade-2,Computer,39,50
+38,Rida Eman,Grade-2,Total,308,350
+39,Anas Qaisar,Grade-2,English,39,50
+39,Anas Qaisar,Grade-2,Urdu,36,50
+39,Anas Qaisar,Grade-2,SST/GK,40,50
+39,Anas Qaisar,Grade-2,Maths,43,50
+39,Anas Qaisar,Grade-2,Islamiyat,46,50
+39,Anas Qaisar,Grade-2,Science,39,50
+39,Anas Qaisar,Grade-2,Computer,39,50
+39,Anas Qaisar,Grade-2,Total,282,350
+40,Usman Hafeez,Grade-2,English,35,50
+40,Usman Hafeez,Grade-2,Urdu,21,50
+40,Usman Hafeez,Grade-2,SST/GK,36,50
+40,Usman Hafeez,Grade-2,Maths,46,50
+40,Usman Hafeez,Grade-2,Islamiyat,32,50
+40,Usman Hafeez,Grade-2,Science,39,50
+40,Usman Hafeez,Grade-2,Computer,22,50
+40,Usman Hafeez,Grade-2,Total,231,350
+41,Areesha,Grade 3,English,39,50
+41,Areesha,Grade 3,Urdu,36,50
+41,Areesha,Grade 3,SST/GK,33,50
+41,Areesha,Grade 3,Maths,36,50
+41,Areesha,Grade 3,Islamiyat,33,50
+41,Areesha,Grade 3,Science,28,50
+41,Areesha,Grade 3,Computer,29,50
+41,Areesha,Grade 3,Total,234,350
+42,Manha Wasif,Grade-3,English,28,50
+42,Manha Wasif,Grade-3,Urdu,31,50
+42,Manha Wasif,Grade-3,SST/GK,10,50
+42,Manha Wasif,Grade-3,Maths,34,50
+42,Manha Wasif,Grade-3,Islamiyat,20,50
+42,Manha Wasif,Grade-3,Science,25,50
+42,Manha Wasif,Grade-3,Computer,22,50
+42,Manha Wasif,Grade-3,Total,170,350
+43,Shakina,Grade 3,English,44,50
+43,Shakina,Grade 3,Urdu,14,50
+43,Shakina,Grade 3,SST/GK,20,50
+43,Shakina,Grade 3,Maths,41,50
+43,Shakina,Grade 3,Islamiyat,27,50
+43,Shakina,Grade 3,Science,33,50
+43,Shakina,Grade 3,Computer,30,50
+43,Shakina,Grade 3,Total,209,350
+44,Javaria ,Grade-3,English,42,50
+44,Javaria ,Grade-3,Urdu,38,50
+44,Javaria ,Grade-3,SST/GK,28,50
+44,Javaria ,Grade-3,Maths,31,50
+44,Javaria ,Grade-3,Islamiyat,35,50
+44,Javaria ,Grade-3,Science,27,50
+44,Javaria ,Grade-3,Computer,42,50
+44,Javaria ,Grade-3,Total,243,350
+45,Abrish Abbasi,Grade-4,English,42,50
+45,Abrish Abbasi,Grade-4,Urdu,44,50
+45,Abrish Abbasi,Grade-4,SST/GK,40,50
+45,Abrish Abbasi,Grade-4,Maths,40,50
+45,Abrish Abbasi,Grade-4,Islamiyat,40,50
+45,Abrish Abbasi,Grade-4,Science,36,50
+45,Abrish Abbasi,Grade-4,Computer,40,50
+45,Abrish Abbasi,Grade-4,Total,282,350
+46,Saim Abbas,Grade-4,English,35,50
+46,Saim Abbas,Grade-4,Urdu,15,50
+46,Saim Abbas,Grade-4,SST/GK,13,50
+46,Saim Abbas,Grade-4,Maths,37,50
+46,Saim Abbas,Grade-4,Islamiyat,28,50
+46,Saim Abbas,Grade-4,Science,11,50
+46,Saim Abbas,Grade-4,Computer,20,50
+46,Saim Abbas,Grade-4,Total,159,350
+47,Muhammad Ali,Grade-4,English,38,50
+47,Muhammad Ali,Grade-4,Urdu,32,50
+47,Muhammad Ali,Grade-4,SST/GK,32,50
+47,Muhammad Ali,Grade-4,Maths,40,50
+47,Muhammad Ali,Grade-4,Islamiyat,42,50
+47,Muhammad Ali,Grade-4,Science,35,50
+47,Muhammad Ali,Grade-4,Computer,40,50
+47,Muhammad Ali,Grade-4,Total,259,350
+48,Qasim Dilshad,Grade-4,English,33,50
+48,Qasim Dilshad,Grade-4,Urdu,25,50
+48,Qasim Dilshad,Grade-4,SST/GK,21,50
+48,Qasim Dilshad,Grade-4,Maths,38,50
+48,Qasim Dilshad,Grade-4,Islamiyat,24,50
+48,Qasim Dilshad,Grade-4,Science,29,50
+48,Qasim Dilshad,Grade-4,Computer,32,50
+48,Qasim Dilshad,Grade-4,Total,202,350
+49,Muhammad Hadi,Grade 4,English,16,50
+49,Muhammad Hadi,Grade 4,Urdu,15,50
+49,Muhammad Hadi,Grade 4,SST/GK,9,50
+49,Muhammad Hadi,Grade 4,Maths,34,50
+49,Muhammad Hadi,Grade 4,Islamiyat,27,50
+49,Muhammad Hadi,Grade 4,Science,17,50
+49,Muhammad Hadi,Grade 4,Computer,26,50
+49,Muhammad Hadi,Grade 4,Total,144,350
+50,Falak Nizabat,Grade 4,English,37,50
+50,Falak Nizabat,Grade 4,Urdu,31,50
+50,Falak Nizabat,Grade 4,SST/GK,22,50
+50,Falak Nizabat,Grade 4,Maths,40,50
+50,Falak Nizabat,Grade 4,Islamiyat,48,50
+50,Falak Nizabat,Grade 4,Science,25,50
+50,Falak Nizabat,Grade 4,Computer,32,50
+50,Falak Nizabat,Grade 4,Total,235,350
+51,Abdul Hadi,Grade 4,English,30,50
+51,Abdul Hadi,Grade 4,Urdu,25,50
+51,Abdul Hadi,Grade 4,SST/GK,5,50
+51,Abdul Hadi,Grade 4,Maths,23,50
+51,Abdul Hadi,Grade 4,Islamiyat,20,50
+51,Abdul Hadi,Grade 4,Science,16,50
+51,Abdul Hadi,Grade 4,Computer,20,50
+51,Abdul Hadi,Grade 4,Total,139,350
+52,Abdul Rehman,Grade-4,English,33,50
+52,Abdul Rehman,Grade-4,Urdu,25,50
+52,Abdul Rehman,Grade-4,SST/GK,35,50
+52,Abdul Rehman,Grade-4,Maths,35,50
+52,Abdul Rehman,Grade-4,Islamiyat,23,50
+52,Abdul Rehman,Grade-4,Science,20,50
+52,Abdul Rehman,Grade-4,Computer,37,50
+52,Abdul Rehman,Grade-4,Total,208,350
+53,Bareera Fayyaz,Grade-5,English,20,50
+53,Bareera Fayyaz,Grade-5,Urdu,31,50
+53,Bareera Fayyaz,Grade-5,SST/GK,13,50
+53,Bareera Fayyaz,Grade-5,Maths,35,50
+53,Bareera Fayyaz,Grade-5,Islamiyat,26,50
+53,Bareera Fayyaz,Grade-5,Science,7,50
+53,Bareera Fayyaz,Grade-5,Computer,20,50
+53,Bareera Fayyaz,Grade-5,Total,152,350
+54,Muhammad Abu Bakar,Grade-5,English,31,50
+54,Muhammad Abu Bakar,Grade-5,Urdu,33,50
+54,Muhammad Abu Bakar,Grade-5,SST/GK,26,50
+54,Muhammad Abu Bakar,Grade-5,Maths,28,50
+54,Muhammad Abu Bakar,Grade-5,Islamiyat,22,50
+54,Muhammad Abu Bakar,Grade-5,Science,10,50
+54,Muhammad Abu Bakar,Grade-5,Computer,23,50
+54,Muhammad Abu Bakar,Grade-5,Total,173,350
+55,Sahil Farman,Grade-5,English,20,50
+55,Sahil Farman,Grade-5,Urdu,13,50
+55,Sahil Farman,Grade-5,SST/GK,5,50
+55,Sahil Farman,Grade-5,Maths,21,50
+55,Sahil Farman,Grade-5,Islamiyat,14,50
+55,Sahil Farman,Grade-5,Science,6,50
+55,Sahil Farman,Grade-5,Computer,11,50
+55,Sahil Farman,Grade-5,Total,90,350
+56,Muhammad Huzaifa,Grade-5,English,43,50
+56,Muhammad Huzaifa,Grade-5,Urdu,45,50
+56,Muhammad Huzaifa,Grade-5,SST/GK,28,50
+56,Muhammad Huzaifa,Grade-5,Maths,37,50
+56,Muhammad Huzaifa,Grade-5,Islamiyat,44,50
+56,Muhammad Huzaifa,Grade-5,Science,12,50
+56,Muhammad Huzaifa,Grade-5,Computer,41,50
+56,Muhammad Huzaifa,Grade-5,Total,250,350
+57,Zainab Dilshad,Grade-6,English,43,50
+57,Zainab Dilshad,Grade-6,Urdu,38,50
+57,Zainab Dilshad,Grade-6,SST/GK,34,50
+57,Zainab Dilshad,Grade-6,Maths,47,50
+57,Zainab Dilshad,Grade-6,Islamiyat,32,50
+57,Zainab Dilshad,Grade-6,Science,32,50
+57,Zainab Dilshad,Grade-6,Computer,40,50
+57,Zainab Dilshad,Grade-6,Total,266,350
+58,Maham Maqsood,Grade-6,English,46,50
+58,Maham Maqsood,Grade-6,Urdu,40,50
+58,Maham Maqsood,Grade-6,SST/GK,43,50
+58,Maham Maqsood,Grade-6,Maths,48,50
+58,Maham Maqsood,Grade-6,Islamiyat,43,50
+58,Maham Maqsood,Grade-6,Science,38,50
+58,Maham Maqsood,Grade-6,Computer,47,50
+58,Maham Maqsood,Grade-6,Total,305,350
+59,Zoya Nisar,Grade-6,English,39,50
+59,Zoya Nisar,Grade-6,Urdu,21,50
+59,Zoya Nisar,Grade-6,SST/GK,31,50
+59,Zoya Nisar,Grade-6,Maths,32,50
+59,Zoya Nisar,Grade-6,Islamiyat,40,50
+59,Zoya Nisar,Grade-6,Science,28,50
+59,Zoya Nisar,Grade-6,Computer,38,50
+59,Zoya Nisar,Grade-6,Total,229,350
+60,Sheheryar Dildar,Grade-6,English,41,50
+60,Sheheryar Dildar,Grade-6,Urdu,24,50
+60,Sheheryar Dildar,Grade-6,SST/GK,41,50
+60,Sheheryar Dildar,Grade-6,Maths,44,50
+60,Sheheryar Dildar,Grade-6,Islamiyat,12,50
+60,Sheheryar Dildar,Grade-6,Science,29,50
+60,Sheheryar Dildar,Grade-6,Computer,37,50
+60,Sheheryar Dildar,Grade-6,Total,228,350
+61,Umaima,Grade-6,English,28,50
+61,Umaima,Grade-6,Urdu,25,50
+61,Umaima,Grade-6,SST/GK,18,50
+61,Umaima,Grade-6,Maths,32,50
+61,Umaima,Grade-6,Islamiyat,27,50
+61,Umaima,Grade-6,Science,25,50
+61,Umaima,Grade-6,Computer,22,50
+61,Umaima,Grade-6,Total,177,350
+62,Asma Yousaf,Grade-6,English,36,50
+62,Asma Yousaf,Grade-6,Urdu,14,50
+62,Asma Yousaf,Grade-6,SST/GK,20,50
+62,Asma Yousaf,Grade-6,Maths,34,50
+62,Asma Yousaf,Grade-6,Islamiyat,32,50
+62,Asma Yousaf,Grade-6,Science,25,50
+62,Asma Yousaf,Grade-6,Computer,26,50
+62,Asma Yousaf,Grade-6,Total,187,350
+63,Muhammad Bilal Chaudhry,Grade-6,English,44,50
+63,Muhammad Bilal Chaudhry,Grade-6,Urdu,32,50
+63,Muhammad Bilal Chaudhry,Grade-6,SST/GK,36,50
+63,Muhammad Bilal Chaudhry,Grade-6,Maths,43,50
+63,Muhammad Bilal Chaudhry,Grade-6,Islamiyat,40,50
+63,Muhammad Bilal Chaudhry,Grade-6,Science,39,50
+63,Muhammad Bilal Chaudhry,Grade-6,Computer,38,50
+63,Muhammad Bilal Chaudhry,Grade-6,Total,272,350
+64,Ahad Mehboob,Grade-7,English,17,50
+64,Ahad Mehboob,Grade-7,Urdu,16,50
+64,Ahad Mehboob,Grade-7,SST/GK,9,50
+64,Ahad Mehboob,Grade-7,Maths,30,50
+64,Ahad Mehboob,Grade-7,Islamiyat,26,50
+64,Ahad Mehboob,Grade-7,Science,11,50
+64,Ahad Mehboob,Grade-7,Computer,20,50
+64,Ahad Mehboob,Grade-7,Total,129,350
+65,Mehmoona Izhar,Grade-7,English,27,50
+65,Mehmoona Izhar,Grade-7,Urdu,16,50
+65,Mehmoona Izhar,Grade-7,SST/GK,16,50
+65,Mehmoona Izhar,Grade-7,Maths,28,50
+65,Mehmoona Izhar,Grade-7,Islamiyat,28,50
+65,Mehmoona Izhar,Grade-7,Science,21,50
+65,Mehmoona Izhar,Grade-7,Computer,24,50
+65,Mehmoona Izhar,Grade-7,Total,160,350
+66,Ayesha Izhar,Grade-7,English,31,50
+66,Ayesha Izhar,Grade-7,Urdu,9,50
+66,Ayesha Izhar,Grade-7,SST/GK,15,50
+66,Ayesha Izhar,Grade-7,Maths,27,50
+66,Ayesha Izhar,Grade-7,Islamiyat,37,50
+66,Ayesha Izhar,Grade-7,Science,22,50
+66,Ayesha Izhar,Grade-7,Computer,33,50
+66,Ayesha Izhar,Grade-7,Total,174,350
+67,Obaid-Ul-Haq,Grade-7,English,24,50
+67,Obaid-Ul-Haq,Grade-7,Urdu,11,50
+67,Obaid-Ul-Haq,Grade-7,SST/GK,12,50
+67,Obaid-Ul-Haq,Grade-7,Maths,25,50
+67,Obaid-Ul-Haq,Grade-7,Islamiyat,23,50
+67,Obaid-Ul-Haq,Grade-7,Science,6,50
+67,Obaid-Ul-Haq,Grade-7,Computer,22,50
+67,Obaid-Ul-Haq,Grade-7,Total,123,350
+68,Sundas Rafeeq,Grade-7,English,48,50
+68,Sundas Rafeeq,Grade-7,Urdu,49,50
+68,Sundas Rafeeq,Grade-7,SST/GK,43,50
+68,Sundas Rafeeq,Grade-7,Maths,41,50
+68,Sundas Rafeeq,Grade-7,Islamiyat,46,50
+68,Sundas Rafeeq,Grade-7,Science,43,50
+68,Sundas Rafeeq,Grade-7,Computer,44,50
+68,Sundas Rafeeq,Grade-7,Total,314,350
+69,Hashir Nisar Abbasi,Grade-7,English,40,50
+69,Hashir Nisar Abbasi,Grade-7,Urdu,29,50
+69,Hashir Nisar Abbasi,Grade-7,SST/GK,30,50
+69,Hashir Nisar Abbasi,Grade-7,Maths,42,50
+69,Hashir Nisar Abbasi,Grade-7,Islamiyat,32,50
+69,Hashir Nisar Abbasi,Grade-7,Science,34,50
+69,Hashir Nisar Abbasi,Grade-7,Computer,38,50
+69,Hashir Nisar Abbasi,Grade-7,Total,245,350
